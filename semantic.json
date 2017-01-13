@@ -11,7 +11,7 @@
       "packaged": "assets/ui/",
       "uncompressed": "semantic/dist/components/",
       "compressed": "semantic/dist/components/",
-      "themes": "dist/themes/"
+      "themes": "assets/ui/theme/"
     },
     "clean": "dist/"
   },

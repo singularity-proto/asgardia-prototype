@@ -1,0 +1,10 @@
+{
+  "name": "ASGARDIA-Prototype",
+  "version": "1.0.0",
+  "description": "ASGARDIA.SPACE Refactoring Prototype",
+  "author": "Matthias Kaschubowski",
+  "license": "MIT",
+  "dependencies": {
+    "semantic-ui": "^2.1.8"
+  }
+}

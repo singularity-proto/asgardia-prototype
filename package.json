@@ -5,6 +5,7 @@
   "author": "Matthias Kaschubowski",
   "license": "MIT",
   "dependencies": {
+    "jquery": "^3.1.1",
     "semantic-ui": "^2.1.8"
   }
 }

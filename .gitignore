@@ -1,0 +1,9 @@
+# NPM
+node_modules/
+
+# Semantic-UI
+semantic/tasks/
+semantic/src/
+!semantic/src/themes/asgardia
+!semantic/src/site
+!semantic/src/definitions

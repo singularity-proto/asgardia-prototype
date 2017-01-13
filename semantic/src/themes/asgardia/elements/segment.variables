@@ -6,7 +6,7 @@
        Element
 --------------------*/
 
-@background: @white;
+@background: rgba(25,25,25,.8);
 @borderWidth: 1px;
 @border: @borderWidth solid @borderColor;
 

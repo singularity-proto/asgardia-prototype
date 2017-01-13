@@ -401,7 +401,7 @@
   opacity: 1;
   z-index: 2;
   border: none;
-  box-shadow: 0px 1px 2px 0 rgba(34, 36, 38, 0.15), 0px 0px 0px 1px rgba(34, 36, 38, 0.15) inset;
+  box-shadow: 0px 1px 2px 0 #484848, 0px 0px 0px 1px #484848 inset;
   width: 1.5rem;
   height: 1.5rem;
   top: -0.25rem;
@@ -507,7 +507,7 @@
   opacity: 1;
   z-index: 2;
   border: none;
-  box-shadow: 0px 1px 2px 0 rgba(34, 36, 38, 0.15), 0px 0px 0px 1px rgba(34, 36, 38, 0.15) inset;
+  box-shadow: 0px 1px 2px 0 #484848, 0px 0px 0px 1px #484848 inset;
   width: 1.5rem;
   height: 1.5rem;
   top: 0rem;

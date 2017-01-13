@@ -439,7 +439,7 @@
 
 @circularRadius                : 500rem;
 
-@borderColor               : rgba(34, 36, 38, 0.15);
+@borderColor               : #484848;
 @strongBorderColor         : rgba(34, 36, 38, 0.22);
 @internalBorderColor       : rgba(34, 36, 38, 0.1);
 @selectedBorderColor       : rgba(34, 36, 38, 0.35);

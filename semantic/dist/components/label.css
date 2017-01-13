@@ -1043,7 +1043,7 @@ a.ui.basic.black.label:hover {
 
 .ui.basic.label {
   background: none #FFFFFF;
-  border: 1px solid rgba(34, 36, 38, 0.15);
+  border: 1px solid #484848;
   color: rgba(255, 255, 255, 0.87);
   box-shadow: none;
 }
@@ -1053,7 +1053,7 @@ a.ui.basic.label:hover {
   text-decoration: none;
   background: none #FFFFFF;
   color: #1e70bf;
-  box-shadow: 1px solid rgba(34, 36, 38, 0.15);
+  box-shadow: 1px solid #484848;
   box-shadow: none;
 }
 

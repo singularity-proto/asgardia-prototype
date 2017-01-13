@@ -11,4 +11,4 @@ gulp.task('copy-jquery', function() {
 });
 
 gulp.task('build', ['build-ui', 'copy-jquery']);
-gulp.task('watch', 'watch-ui');
+gulp.task('watch', ['watch-ui']);

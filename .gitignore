@@ -2,8 +2,11 @@
 node_modules/
 
 # Semantic-UI
+semantic/gulpfile.js
 semantic/tasks/
-semantic/src/
+semantic/src/themes/*
 !semantic/src/themes/asgardia
 !semantic/src/site
 !semantic/src/definitions
+
+.DS_Store

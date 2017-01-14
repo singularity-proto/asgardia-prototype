@@ -10,12 +10,12 @@
 @verticalMargin: @medium;
 @horizontalMargin: 0em;
 @margin: @verticalMargin @horizontalMargin;
-@background: #FFFFFF;
+@background: rgba(25,25,25,.8);
 @fontFamily: @pageFont;
 @itemBackground: none;
 @fontWeight: normal;
 @borderWidth: 1px;
-@border: @borderWidth solid @borderColor;
+@border: @borderWidth solid #484848;
 @boxShadow: @subtleShadow;
 @borderRadius: @defaultBorderRadius;
 @minHeight: (@itemVerticalPadding * 2) + 1em;
@@ -158,8 +158,8 @@
 ---------------*/
 
 /* Hovered Item */
-@hoverItemBackground: @subtleTransparentBlack;
-@hoverItemTextColor: @selectedTextColor;
+@hoverItemBackground: rgba(0,0,0,.8);
+@hoverItemTextColor: rgba(251,189,8,1);
 
 /* Pressed Item */
 @pressedItemBackground: @subtleTransparentBlack;
